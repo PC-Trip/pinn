@@ -26,8 +26,8 @@ PINN model testing
 2. ️[seaborn](https://github.com/mwaskom/seaborn-data)
 3. ️[scikit-learn](https://scikit-learn.org/stable/datasets/toy_dataset.html)
 4. ️[statsmodel](https://www.statsmodels.org/devel/datasets/index.html)
-5. ️[nltk](http://www.nltk.org/nltk_data/)
-6. [kaggle](https://www.kaggle.com/docs/api)
+5. ️[NLTK](http://www.nltk.org/nltk_data/)
+6. [Kaggle](https://www.kaggle.com/docs/api)
 7. [Weka](https://waikato.github.io/weka-wiki/datasets/)
 
 ## Refs
@@ -35,3 +35,5 @@ PINN model testing
 ](https://towardsdatascience.com/datasets-in-python-425475a20eb1)
 2. [DataLoader – an API to wrap datasets from other machine learning frameworks](https://discuss.tvm.apache.org/t/dataloader-an-api-to-wrap-datasets-from-other-machine-learning-frameworks/9498/9)
 3. [Function Wrappers in Python](https://towardsdatascience.com/function-wrappers-in-python-5146f3ad0601)
+4. [Building Efficient Custom Datasets in PyTorch:
+Learn the ins-and-outs of the Dataset class and leverage the clean code structure while minimizing headaches managing large amounts of data during training](https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f)
