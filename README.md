@@ -10,12 +10,12 @@ PINN model testing
 5. ...
 
 ## Python
-0. python [dict](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [json](https://docs.python.org/3/library/json.html)
-1. numpy [ndarray](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html)
-2. pandas [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
-3. torch [Dataset](https://pytorch.org/docs/stable/data.html#torch.utils.data.Dataset)
-4. tensorflow [Dataset](https://www.tensorflow.org/api_docs/python/tf/data/Dataset)
-5. scikit-learn [Bunch](https://scikit-learn.org/stable/modules/generated/sklearn.utils.Bunch.html)
+0. [python](https://www.python.org/) [dict](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) [json](https://docs.python.org/3/library/json.html)
+1. [numpy](https://numpy.org/) [ndarray](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html)
+2. [pandas](https://pandas.pydata.org/) [DataFrame](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
+3. [PyTorch](https://pytorch.org/) [Dataset](https://pytorch.org/docs/stable/data.html#torch.utils.data.Dataset)
+4. [TensorFlow](https://www.tensorflow.org/) [Dataset](https://www.tensorflow.org/api_docs/python/tf/data/Dataset)
+5. [scikit-learn](https://scikit-learn.org/stable/) [Bunch](https://scikit-learn.org/stable/modules/generated/sklearn.utils.Bunch.html)
 6. [dataset](https://dataset.readthedocs.io/en/latest/index.html)
 7. [SQLAlchemy](https://www.sqlalchemy.org/)
 8. [sqlite3](https://docs.python.org/3/library/sqlite3.html)
